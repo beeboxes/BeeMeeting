@@ -1,0 +1,10 @@
+{
+  "jwt-secret": "41adf229-d4a5-4def-97cf-0b844645a3fa",
+  "mysql": {
+    "server": "localhost",
+    "port": 3306,
+    "username": "root",
+    "password": null,
+    "database": "beemeeting_development"
+  }
+}
